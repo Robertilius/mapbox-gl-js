@@ -1,0 +1,641 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Investigación y Diseño de Equipamiento Urbano",
+        "place": "Pujilí",
+        "canton": "Pujilí",
+        "province": "Cotopaxi",
+        "tutor": "Arq. Antonela Fustillos",
+        "category": "Diseño Urbano",
+        "date": "2015"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.695756,
+          -0.956103
+        ],
+        "type": "Point"
+      },
+      "id": "0569c82e07c904844e9c4f38073be50e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Plan de Ordenamiento - Ideas Generatrices",
+        "place": "Bahía de Caraquez",
+        "province": "Manabí",
+        "tutor": "definir",
+        "category": "definir",
+        "date": "2016",
+        "canton": "Sucre"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.425764,
+          -0.599931
+        ],
+        "type": "Point"
+      },
+      "id": "130499b6a79c719ce723357cfdc53c38"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Intervención en el espacio público",
+        "place": "Cunchimbamba",
+        "canton": "Ambato",
+        "province": "Tungurahua",
+        "tutor": "Arq. Wilmer Yaselga, Ing. Eduardo Torres",
+        "category": "Intervención en el espacio público",
+        "date": 2015
+      },
+      "geometry": {
+        "coordinates": [
+          -78.580741,
+          -1.132526
+        ],
+        "type": "Point"
+      },
+      "id": "24aa8ed091262a79c227820dabc598b7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rehabilitación Hacienda Tilipulo",
+        "place": "Latacunga",
+        "canton": "Latacunga",
+        "province": "Cotopaxi",
+        "tutor": "Arq. Antonela Fustillos",
+        "category": "Rehabilitación",
+        "date": "2015"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.614682,
+          -0.934581
+        ],
+        "type": "Point"
+      },
+      "id": "279627f80916ce82dd14c3410710c0b3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Recuperación y Mejoramiento Integral de Espacios en el Barrio la Isla",
+        "place": "Cutuglahua",
+        "canton": "Mejía",
+        "province": "Pichincha",
+        "tutor": "Arq. Daniela Cadena",
+        "category": "Estudio Investigación e Intervención",
+        "date": "2015",
+        "fin": "2016"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.545342,
+          -0.361369
+        ],
+        "type": "Point"
+      },
+      "id": "38f9c1a99f220143ef4b218785aaa60b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Diseño Aarquitectónico Urbano de Equipamiento Comunitario",
+        "place": "Archidona",
+        "canton": "Archidona",
+        "province": "Napo",
+        "tutor": "Arq. Jose Pelegrini",
+        "category": "Diseño Arquitectónico y Urbano",
+        "date": "2015"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.807175,
+          -0.909087
+        ],
+        "type": "Point"
+      },
+      "id": "42ca308a906270ad912c19547d1c852d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rehabilitación Casona de las Artes UCE",
+        "place": "definir",
+        "canton": "Distrito Metropolitano de Quito",
+        "province": "Pichincha",
+        "tutor": "Arq. Antonela Fustillos",
+        "category": "Rehabilitación",
+        "date": "2015"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.508756,
+          -0.216882
+        ],
+        "type": "Point"
+      },
+      "id": "436cd6a8890124155f3bf0db79da2a51"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Parque Temático",
+        "place": "Cayambe",
+        "canton": "Cayambe",
+        "province": "Pichincha",
+        "category": "Diseño Arquitectónico y Urbano",
+        "tutor": "Arq. César Vásquez",
+        "date": "2015"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.146643,
+          0.044472
+        ],
+        "type": "Point"
+      },
+      "id": "43fa4cad8e8c086662983c036bb43b0f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Perucho",
+        "place": "Centro de Capacitación Agricola",
+        "canton": "Distrito Metropolitano de Quito",
+        "province": "Pichincha",
+        "tutor": "Arq. Wilson Sosa, Arq. Marco Ortiz, Arq. Luis Iván Mesa Sanchez",
+        "category": "Anteproyecto de Diseño Arquitectónico",
+        "date": "2014"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.423429,
+          0.109239
+        ],
+        "type": "Point"
+      },
+      "id": "46bf8fbfc6e59bb70be2ef48b13680ea"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "El Quinche",
+        "description": "Proyecto"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.296462,
+          -0.110486
+        ],
+        "type": "Point"
+      },
+      "id": "545d83858b2545acc6b3068c158e9e12"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Diseño de un Parqute Recreativo",
+        "place": "Quito",
+        "canton": "Distrito Metropolitano de Quito",
+        "province": "Pichincha",
+        "category": "definir",
+        "tutor": "definir",
+        "date": 2017
+      },
+      "geometry": {
+        "coordinates": [
+          -78.50524,
+          -0.199615
+        ],
+        "type": "Point"
+      },
+      "id": "5f86a82b7073990e0c298c1fbafd5678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Proyecto en Guápulo",
+        "place": "Guápulo",
+        "canton": "Distrito Metropolitano de Quito",
+        "province": "Pichincha",
+        "category": "definir",
+        "tutor": "definir",
+        "date": "2017"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.475738,
+          -0.200701
+        ],
+        "type": "Point"
+      },
+      "id": "695920e81680840154ff060d912683ad"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Diseño Arquitectónico de Equpamiento Urbano",
+        "place": "Cayambe",
+        "canton": "Cayambe",
+        "province": "Pichincha",
+        "category": "Diseño Arquitectónico y Urbano",
+        "tutor": "Arq. César Vásquez",
+        "date": "2015"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.142948,
+          0.041005
+        ],
+        "type": "Point"
+      },
+      "id": "717a9f237d22d6b3c009a5ce6decc949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Diagnóstico y diseño de la Centralidad Tumbaco-Cumbaya",
+        "place": "Tumbaco - Cumbaya",
+        "canton": "Distrito Metropolitano de Quito",
+        "province": "Pichincha",
+        "tutor": "Arq. Santiago Gomez",
+        "category": "Diseño Urbano",
+        "date": "2015"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.41841,
+          -0.205587
+        ],
+        "type": "Point"
+      },
+      "id": "770165df0398b0276eb3430b4dc1658c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Proyecto en Atucucho",
+        "place": "Atucucho",
+        "canton": "Distrito Metropolitano de Quito",
+        "province": "Pichincha",
+        "category": "definir",
+        "tutor": "definir",
+        "date": "2017"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.51367,
+          -0.129104
+        ],
+        "type": "Point"
+      },
+      "id": "85cb3622325d7331502160a3ddb36e9f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Diseño y Remodelación del Parque Central ",
+        "place": "Ulba",
+        "canton": "Ambato",
+        "province": "Tungurahua",
+        "tutor": "Arq. Diego Mafla",
+        "category": "Diseño Arquitectónico y Urbano",
+        "date": "2015"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.394455,
+          -1.39602
+        ],
+        "type": "Point"
+      },
+      "id": "8baff3a5dd41a9100259a29bcbcfc93b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Diseño de un Parqute Recreativo",
+        "place": "Comuna Santa Clara de San Millán",
+        "canton": "Distrito Metropolitano de Quito",
+        "province": "Pichincha",
+        "category": "Diseño Arquitectónico y Urbano",
+        "tutor": "Arq. Antonela Fustillos",
+        "date": "2015"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.511753,
+          -0.178337
+        ],
+        "type": "Point"
+      },
+      "id": "8cdda95eb91e47c1167bcd9224570565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Parque Eco - Recreativo Cultural ",
+        "place": "Tulcán",
+        "canton": "Tulcán",
+        "province": "Carchi",
+        "tutor": "Arq. Patricio Yaselga",
+        "category": "2016",
+        "date": "2015"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.718348,
+          0.812065
+        ],
+        "type": "Point"
+      },
+      "id": "8e23fd07630cc0755fbc7468ae9a794e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Proyecto en La Bretaña",
+        "place": "La Bretaña",
+        "canton": "Distrito Metropolitano de Quito",
+        "province": "Pichincha",
+        "tutor": "definir",
+        "category": "definir",
+        "date": "2015"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.546238,
+          -0.314118
+        ],
+        "type": "Point"
+      },
+      "id": "924c24595dffec2090623cacea34b0c1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Plan de Ordenamiento - Ideas Generatrices",
+        "place": "Sua",
+        "province": "Esmeraldas",
+        "tutor": "Arq. Oswaldo Altamirano",
+        "category": "Diseño Urbano",
+        "date": "2015",
+        "canton": "Atacames"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.874619,
+          0.863842
+        ],
+        "type": "Point"
+      },
+      "id": "9409ce04cbad9bc5f341a700e31fd1e9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rediseño del Parque Central ",
+        "place": "Rio Negro",
+        "canton": "Baños",
+        "province": "Tungurahua",
+        "tutor": "Arq. Patricio Yaselga",
+        "category": "Diseño Arquitectónico y Urbano",
+        "date": "2015"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.210837,
+          -1.413285
+        ],
+        "type": "Point"
+      },
+      "id": "985ec7797b285b32920bd1686689a5ea"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Proyecto de Turismo Comunitario en el Lago San Pablo",
+        "place": "San Rafael",
+        "canton": "Otavalo",
+        "province": "Imbabura",
+        "tutor": "Arq. Marlón Cuenca",
+        "category": "definir",
+        "date": "2015"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.226825,
+          0.192158
+        ],
+        "type": "Point"
+      },
+      "id": "9a91469ccfee751231f041e3432122c7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Central Micro Regional de Intercambio Artesanal, Agricola y Turístico",
+        "place": "Ulba",
+        "canton": "Baños",
+        "province": "Tungurahua",
+        "tutor": "Arq. Patricio Yaselga, Arq. Manuel Durán",
+        "date": "2015",
+        "category": "2015"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.39587,
+          -1.395488
+        ],
+        "type": "Point"
+      },
+      "id": "af484b8a0ebee2a54988659fe8fe94af"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Diseño Construcción Paseo Ecológico",
+        "place": "Picaihua",
+        "canton": "Ambato",
+        "province": "Tungurahua",
+        "tutor": "Arq. Diego Mafla",
+        "category": "Diseño Arquitectónico y Urbano",
+        "date": "2015"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.583638,
+          -1.267051
+        ],
+        "type": "Point"
+      },
+      "id": "afa0b7a5f6c298ec3d25216372165c6c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Estudio para la Construcción de un Coliseo en el Centro Parroquial",
+        "place": "Constantino Fernandez",
+        "canton": "Ambato",
+        "province": "Tungurahua",
+        "category": "Diseño Arquitectónico y Urbano",
+        "tutor": "Arq. Sergio Bermeo",
+        "date": "2016"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.63977,
+          -1.203145
+        ],
+        "type": "Point"
+      },
+      "id": "afb33a60981c5a61df9ee5f31b1c7944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "UE 12 de Octubre",
+        "place": "Quito",
+        "canton": "Distrito Metropolitano de Quito",
+        "province": "Pichincha",
+        "category": "definir",
+        "tutor": "definir",
+        "date": "2017"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.483338,
+          -0.203804
+        ],
+        "type": "Point"
+      },
+      "id": "b718c393772a3766ad63b6bf5d45ae6a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Proyecto en Chavezpamba",
+        "place": "Chavezpamba",
+        "canton": "Distrito Metropolitano de Quito",
+        "province": "Pichincha",
+        "category": "definir",
+        "tutor": "definir",
+        "date": "2015"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.402883,
+          0.12412
+        ],
+        "type": "Point"
+      },
+      "id": "bd7a74a73137869e37123c27297e8a99"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Potenciación de Playas Naturales",
+        "place": "Rio Negro",
+        "canton": "Baños",
+        "province": "Tungurahua",
+        "tutor": "Arq. Patricio Yaselga",
+        "category": "Diseño Arquitectónico y Urbano",
+        "date": "2015"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.212093,
+          -1.413926
+        ],
+        "type": "Point"
+      },
+      "id": "bf570b6031834e3be71367eaaecbb271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Proyecto en Mashpi",
+        "place": "Mashpi",
+        "canton": "Distrito Metropolitano de Quito",
+        "province": "Pichincha",
+        "category": "definir",
+        "tutor": "definir",
+        "date": "2017"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.522962,
+          -0.278514
+        ],
+        "type": "Point"
+      },
+      "id": "c664a0c0daf5fcb44319d06fa4b6b10f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rediseño del Balneario \"Las Estancias\"",
+        "place": "Rio Negro",
+        "canton": "Baños",
+        "province": "Tungurahua",
+        "category": "Diseño Arquitectónico y Urbano",
+        "tutor": "Arq. Patricio Yaselga",
+        "date": "2015"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.213743,
+          -1.413582
+        ],
+        "type": "Point"
+      },
+      "id": "db55ea51ee3a33b5564713b6fe8f2b15"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sede para Jubilados y Personas de la Tercera Edad",
+        "place": "Cayambe",
+        "canton": "Cayambe",
+        "province": "Pichincha",
+        "category": "Diseño Arquitectónico y Urbano",
+        "tutor": "Arq. César Vásquez, Arq. Klever Vásquez",
+        "date": "2015"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.140769,
+          0.048171
+        ],
+        "type": "Point"
+      },
+      "id": "f04e59373b5d5b0a3e6ec04ecb764807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Diseño para la remodelación del parque Huagra",
+        "place": "Izamba",
+        "canton": "Ambato",
+        "province": "Tungurahua",
+        "tutor": "Arq. Marria Isabel Orquera",
+        "category": "definir",
+        "date": "2015"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.584062,
+          -1.21961
+        ],
+        "type": "Point"
+      },
+      "id": "ff4b2467d1777278148f154935415bef"
+    }
+  ],
+  "type": "FeatureCollection"
+}
